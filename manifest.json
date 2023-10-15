@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+
+    "name": "SolCycle",
+    "version": "1.0",
+    "description": "A platform to promote recycling and upcycling with Solana!",
+
+    "icons": {
+        "48": "icon.png",
+        "128": "icon_large.png"
+    },
+
+    "background": {
+        "scripts": ["background.js"]
+    }
+}

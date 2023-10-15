@@ -1,0 +1,19 @@
+{
+    "name": "solcycle",
+    "version": "1.0.0",
+    "description": "A decentralized platform promoting recycling and upcycling with Solana blockchain.",
+    "main": "server/index.js",
+    "scripts": {
+      "start": "node server/index.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^5.13.3",
+      "cors": "^2.8.5",
+      "@solana/web3.js": "^1.30.2"
+    },
+    "devDependencies": {},
+    "author": "",
+    "license": "MIT"
+  }
+  
